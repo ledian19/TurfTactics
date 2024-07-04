@@ -1,0 +1,6 @@
+@TurfTactics_HostAddress = http://localhost:5240
+
+GET {{TurfTactics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
